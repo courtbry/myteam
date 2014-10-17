@@ -1,0 +1,41 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 300;
+ background-image: url(wood.jpg);
+background-size: cover;
+
+                background-position: center center;
+                background-attachment: fixed;
+}
+h1 {
+  font-size: 50px;
+  color: purple;
+  text-align: center;
+}
+
+li{
+  color:white;
+}
+
+p, li{
+  line-height: 26px;
+}
+
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
+img{
+                border: 1px solid grey;
+                border-radius: 9999999px;
+                box-shadow: 10px 10px 10px grey;
+}
+#footer{
+                color: white;
+                margin: 20px auto;
+                padding: 20px;
+                text-align: center;
+}
+h1{
+  color: white;
+}

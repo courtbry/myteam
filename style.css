@@ -1,0 +1,42 @@
+body {
+
+  font-family: 'lucida sans unicode', lucida grande, sans-serif;
+  font-weight: 300;
+  background: url(.jpg) repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
+img{
+                border: 4px solid orange;
+                border-radius: 9999999px;
+                box-shadow: 10px 10px 10px grey;
+}
+#footer{
+                color: white;
+                margin: 20px auto;
+                padding: 20px;
+                text-align: center;
+}
+h1{
+  color:orange;
+}
+
+h2{
+  color:white;
+}
+
+h4{
+  color:white;
+}
+
+li{
+  color:white;
+}
+
+p{
+  color:white;
+}
